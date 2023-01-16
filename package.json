@@ -1,0 +1,11 @@
+{
+  "name": "lighthouse",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@lhci/cli": "^0.10.0",
+    "@lhci/server": "^0.10.0",
+    "sqlite3": "^5.1.4"
+  }
+}
